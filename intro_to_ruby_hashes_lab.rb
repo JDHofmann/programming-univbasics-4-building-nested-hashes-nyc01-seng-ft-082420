@@ -38,7 +38,7 @@ def monopoly_with_third_tier
         reading_railroad: {},
         pennsylvania_railroad: {},
         b_and_o_railroad: {},
-        shortline_railraod: {}
+        shortline_railroad: {}
       }
       }
     }
@@ -68,7 +68,7 @@ hash_one = {
         b_and_o_railroad: {
           mortage_value: 400
         },
-        shortline_railraod: {
+        shortline_railroad: {
           mortage_value: 800
         }
       }
