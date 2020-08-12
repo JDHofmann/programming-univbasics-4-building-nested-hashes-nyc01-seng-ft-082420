@@ -35,7 +35,7 @@ def monopoly_with_third_tier
         four_pieces_owned: 200
       },
       names: {
-        reading_railraod: {},
+        reading_railroad: {},
         pennsylvania_railraod: {},
         b_and_o_railroad: {},
         shortline_railraod: {}
@@ -59,7 +59,7 @@ hash_one = {
         four_pieces_owned: 200
       },
       names: {
-        reading_railraod: {
+        reading_railroad: {
           mortage_value: 100
         },
         pennsylvania_railraod: {
